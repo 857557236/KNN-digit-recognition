@@ -1,0 +1,13 @@
+C:\Users\omar\Documents\Visual Studio 2012\Projects\KNN digit recognition\KNN digit recognition\bin\Release\KNN digit recognition.exe.config
+C:\Users\omar\Documents\Visual Studio 2012\Projects\KNN digit recognition\KNN digit recognition\bin\Release\KNN digit recognition.exe
+C:\Users\omar\Documents\Visual Studio 2012\Projects\KNN digit recognition\KNN digit recognition\bin\Release\KNN digit recognition.pdb
+C:\Users\omar\Documents\Visual Studio 2012\Projects\KNN digit recognition\KNN digit recognition\obj\Release\KNN digit recognition.csprojResolveAssemblyReference.cache
+C:\Users\omar\Documents\Visual Studio 2012\Projects\KNN digit recognition\KNN digit recognition\obj\Release\KNN_digit_recognition.ConfusionMatrix.resources
+C:\Users\omar\Documents\Visual Studio 2012\Projects\KNN digit recognition\KNN digit recognition\obj\Release\KNN_digit_recognition.DrawForm.resources
+C:\Users\omar\Documents\Visual Studio 2012\Projects\KNN digit recognition\KNN digit recognition\obj\Release\KNN_digit_recognition.MainForm.resources
+C:\Users\omar\Documents\Visual Studio 2012\Projects\KNN digit recognition\KNN digit recognition\obj\Release\KNN_digit_recognition.RangeTest.resources
+C:\Users\omar\Documents\Visual Studio 2012\Projects\KNN digit recognition\KNN digit recognition\obj\Release\KNN_digit_recognition.TestForm.resources
+C:\Users\omar\Documents\Visual Studio 2012\Projects\KNN digit recognition\KNN digit recognition\obj\Release\KNN_digit_recognition.Properties.Resources.resources
+C:\Users\omar\Documents\Visual Studio 2012\Projects\KNN digit recognition\KNN digit recognition\obj\Release\KNN digit recognition.csproj.GenerateResource.Cache
+C:\Users\omar\Documents\Visual Studio 2012\Projects\KNN digit recognition\KNN digit recognition\obj\Release\KNN digit recognition.exe
+C:\Users\omar\Documents\Visual Studio 2012\Projects\KNN digit recognition\KNN digit recognition\obj\Release\KNN digit recognition.pdb
